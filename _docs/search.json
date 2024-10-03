@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NWHDA - Cohort 2",
+    "section": "",
+    "text": "Preface\nWelcome to the “Introduction to Health Data Science Using R” workshop! Get ready to embark on a transformative journey into the dynamic world of health data science. This companion workbook is your roadmap and toolkit for our action-packed, three-day adventure. We’re here to build a rock-solid foundation in data science specifically for healthcare professionals, all while harnessing the full power of the R programming language and the RStudio interface.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#workshop-goals",
+    "href": "index.html#workshop-goals",
+    "title": "NWHDA - Cohort 2",
+    "section": "Workshop Goals",
+    "text": "Workshop Goals\n\nPrimary Objective\nOur mission is simple yet ambitious: to empower you with the essential tools and knowledge to master health data science using R. You’ll dive deep into the R programming language, navigate the versatile RStudio environment, and leverage the tidyverse workflow for cutting-edge data analysis. By the end, you’ll be a healthcare professional who is equiped with the concepts and information needed to make your path in the exciting world of Health Data Science.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#key-topics",
+    "href": "index.html#key-topics",
+    "title": "NWHDA - Cohort 2",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nData Wrangling:\nLearn to clean, reshape, and prepare your datasets like a pro, tackling common challenges using the power of data manipulation and transformation.\n\n\nData Visualization:\nLearn to create informative and aesthetically pleasing charts using the versatile ggplot2 package. Turn data into compelling stories with stunning visualizations using various ggplot extensions.\n\n\nReproducible Research:\nLearn to document your processes meticulously, ensuring your analyses are transparent, replicable, and credible. Kick-start you research journey with reproducible workflows.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#expected-outcomes",
+    "href": "index.html#expected-outcomes",
+    "title": "NWHDA - Cohort 2",
+    "section": "Expected Outcomes",
+    "text": "Expected Outcomes\nBy the end of this workshop, you’ll be able to:\n\nData Wrangling\n\nImport data from various sources into R.\nClean and pre-process data for further analysis.\nTransform data to explore insights and interpretations.\n\n\n\nData Visualization\n\nCreate a variety of data visualizations (plots and charts).\nCustomize visualizations to highlight key trends and communicate them effectively.\nApply the best practices of data visualization to make them impactful.\n\n\n\nReproducible Research\n\nClear and well-documented reserach workflows.\nEfficiently organized using data-science projects\n\nThis workshop isn’t just about learning - it’s about transforming the way you interact with data. Whether you’re a beginner eager to dive into the world of programming or a seasoned professional looking to sharpen your skills, this workshop is designed to provide practical knowledge and hands-on experience that will set you apart.\nWe’re thrilled to have you join us and can’t wait to see the incredible things you’ll achieve with your new found skills in health data science using R. Let’s dive in and start this exciting journey together!\nLet’s Get Started!!!\n\n\nDISCLAIMER - What is not covered in the workshop?\nThis is not a workshop on Epidemiology or Biostatistics. Though we will be touching on many epidemiological and statistical aspects, we will deliberately skip going into the deeper concepts. Future workshops covering these concepts more in detail may be thought of if there are additional requests and a threshold number of participants.",
+    "crumbs": [
+      "Preface"
+    ]
+  }
+]
